@@ -44,3 +44,5 @@ firebase-debug.log
 firestore-debug.log
 ui-debug.log
 .log
+# Local Netlify folder
+.netlify
